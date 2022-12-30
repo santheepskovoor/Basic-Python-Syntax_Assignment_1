@@ -1,2 +1,2 @@
 # Basic-Python-_Assignment_1
-The Assignment is to check the basic python concepts provided by ineuron
+The Assignment consists of questions for the basic python concepts for Data Analytics
